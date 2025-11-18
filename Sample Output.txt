@@ -1,0 +1,1076 @@
+Test #1
+
+john@ubuntu-box:~/Code/C++/M04$ ./nerf 10 4 3
+--------------------------------------------------
+Model: Echo
+Ammo: 176/176
+Max range: 177
+ID: rsaze
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 158/158
+Max range: 126
+ID: ojcas
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 166/166
+Max range: 139
+ID: ahhch
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 178/178
+Max range: 141
+ID: wbrhs
+--------------------------------------------------
+--------------------------------------------------
+Model: Agility
+Ammo: 178/178
+Max range: 121
+ID: xnhgm
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 150/150
+Max range: 120
+ID: rjolk
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 178/178
+Max range: 162
+ID: ghfww
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 193/193
+Max range: 157
+ID: lpydm
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 168/168
+Max range: 153
+ID: nfxqq
+--------------------------------------------------
+--------------------------------------------------
+Model: Agility
+Ammo: 166/166
+Max range: 150
+ID: qtrgn
+--------------------------------------------------
+The gun with the most ammo is currently: 
+Model: Mythic
+Ammo: 193/193
+Max range: 157
+ID: lpydm
+--------------------------------------------------
+Firing: Echo (rsaze)
+Firing gun(175/176)
+The dart flew 144 miles away
+Firing gun(174/176)
+The dart flew 152 miles away
+Firing gun(173/176)
+The dart flew 2 miles away
+Firing gun(172/176)
+The dart flew 3 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (ojcas)
+Firing gun(157/158)
+The dart flew 8 miles away
+Firing gun(156/158)
+The dart flew 83 miles away
+Firing gun(155/158)
+The dart flew 39 miles away
+Firing gun(154/158)
+The dart flew 12 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (ahhch)
+Firing gun(165/166)
+The dart flew 27 miles away
+Firing gun(164/166)
+The dart flew 1 miles away
+Firing gun(163/166)
+The dart flew 73 miles away
+Firing gun(162/166)
+The dart flew 2 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (wbrhs)
+Firing gun(177/178)
+The dart flew 44 miles away
+Firing gun(176/178)
+The dart flew 129 miles away
+Firing gun(175/178)
+The dart flew 119 miles away
+Firing gun(174/178)
+The dart flew 126 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Agility (xnhgm)
+Firing gun(177/178)
+The dart flew 67 miles away
+Firing gun(176/178)
+The dart flew 67 miles away
+Firing gun(175/178)
+The dart flew 26 miles away
+Firing gun(174/178)
+The dart flew 65 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (rjolk)
+Firing gun(149/150)
+The dart flew 25 miles away
+Firing gun(148/150)
+The dart flew 72 miles away
+Firing gun(147/150)
+The dart flew 56 miles away
+Firing gun(146/150)
+The dart flew 89 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (ghfww)
+Firing gun(177/178)
+The dart flew 71 miles away
+Firing gun(176/178)
+The dart flew 105 miles away
+Firing gun(175/178)
+The dart flew 95 miles away
+Firing gun(174/178)
+The dart flew 160 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (lpydm)
+Firing gun(192/193)
+The dart flew 123 miles away
+Firing gun(191/193)
+The dart flew 17 miles away
+Firing gun(190/193)
+The dart flew 93 miles away
+Firing gun(189/193)
+The dart flew 108 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (nfxqq)
+Firing gun(167/168)
+The dart flew 94 miles away
+Firing gun(166/168)
+The dart flew 16 miles away
+Firing gun(165/168)
+The dart flew 77 miles away
+Firing gun(164/168)
+The dart flew 130 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Agility (qtrgn)
+Firing gun(165/166)
+The dart flew 70 miles away
+Firing gun(164/166)
+The dart flew 126 miles away
+Firing gun(163/166)
+The dart flew 111 miles away
+Firing gun(162/166)
+The dart flew 53 miles away
+--------------------------------------------------
+--------------------------------------------------
+Reload: Echo (rsaze)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (ojcas)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (ahhch)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (wbrhs)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Agility (xnhgm)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (rjolk)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (ghfww)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (lpydm)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (nfxqq)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Agility (qtrgn)
+Reloading gun
+--------------------------------------------------
+
+Test #2
+john@ubuntu-box:~/Code/C++/M04$ ./nerf 15 5 9
+--------------------------------------------------
+Model: Elite
+Ammo: 172/172
+Max range: 167
+ID: fvray
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 184/184
+Max range: 149
+ID: iijam
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 151/151
+Max range: 129
+ID: yfpuv
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 185/185
+Max range: 192
+ID: hmrbk
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 190/190
+Max range: 162
+ID: kmraa
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 180/180
+Max range: 138
+ID: bizig
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 198/198
+Max range: 123
+ID: idsby
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 188/188
+Max range: 135
+ID: szemr
+--------------------------------------------------
+--------------------------------------------------
+Model: Echo
+Ammo: 171/171
+Max range: 177
+ID: zkviw
+--------------------------------------------------
+--------------------------------------------------
+Model: Agility
+Ammo: 158/158
+Max range: 197
+ID: kmuti
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 153/153
+Max range: 172
+ID: jxmxd
+--------------------------------------------------
+--------------------------------------------------
+Model: Agility
+Ammo: 188/188
+Max range: 185
+ID: venck
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 146/146
+Max range: 148
+ID: qvyib
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 150/150
+Max range: 185
+ID: hlvhj
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 170/170
+Max range: 155
+ID: jhozp
+--------------------------------------------------
+The gun with the most ammo is currently: 
+Model: Commander
+Ammo: 198/198
+Max range: 123
+ID: idsby
+--------------------------------------------------
+Firing: Elite (fvray)
+Firing gun(171/172)
+The dart flew 59 miles away
+Firing gun(170/172)
+The dart flew 98 miles away
+Firing gun(169/172)
+The dart flew 23 miles away
+Firing gun(168/172)
+The dart flew 39 miles away
+Firing gun(167/172)
+The dart flew 161 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (iijam)
+Firing gun(183/184)
+The dart flew 37 miles away
+Firing gun(182/184)
+The dart flew 136 miles away
+Firing gun(181/184)
+The dart flew 14 miles away
+Firing gun(180/184)
+The dart flew 116 miles away
+Firing gun(179/184)
+The dart flew 60 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (yfpuv)
+Firing gun(150/151)
+The dart flew 68 miles away
+Firing gun(149/151)
+The dart flew 56 miles away
+Firing gun(148/151)
+The dart flew 102 miles away
+Firing gun(147/151)
+The dart flew 105 miles away
+Firing gun(146/151)
+The dart flew 44 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (hmrbk)
+Firing gun(184/185)
+The dart flew 110 miles away
+Firing gun(183/185)
+The dart flew 80 miles away
+Firing gun(182/185)
+The dart flew 178 miles away
+Firing gun(181/185)
+The dart flew 142 miles away
+Firing gun(180/185)
+The dart flew 66 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (kmraa)
+Firing gun(189/190)
+The dart flew 152 miles away
+Firing gun(188/190)
+The dart flew 135 miles away
+Firing gun(187/190)
+The dart flew 13 miles away
+Firing gun(186/190)
+The dart flew 6 miles away
+Firing gun(185/190)
+The dart flew 147 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (bizig)
+Firing gun(179/180)
+The dart flew 102 miles away
+Firing gun(178/180)
+The dart flew 76 miles away
+Firing gun(177/180)
+The dart flew 117 miles away
+Firing gun(176/180)
+The dart flew 112 miles away
+Firing gun(175/180)
+The dart flew 2 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (idsby)
+Firing gun(197/198)
+The dart flew 67 miles away
+Firing gun(196/198)
+The dart flew 92 miles away
+Firing gun(195/198)
+The dart flew 2 miles away
+Firing gun(194/198)
+The dart flew 123 miles away
+Firing gun(193/198)
+The dart flew 97 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (szemr)
+Firing gun(187/188)
+The dart flew 5 miles away
+Firing gun(186/188)
+The dart flew 70 miles away
+Firing gun(185/188)
+The dart flew 111 miles away
+Firing gun(184/188)
+The dart flew 135 miles away
+Firing gun(183/188)
+The dart flew 1 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Echo (zkviw)
+Firing gun(170/171)
+The dart flew 171 miles away
+Firing gun(169/171)
+The dart flew 166 miles away
+Firing gun(168/171)
+The dart flew 164 miles away
+Firing gun(167/171)
+The dart flew 70 miles away
+Firing gun(166/171)
+The dart flew 47 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Agility (kmuti)
+Firing gun(157/158)
+The dart flew 116 miles away
+Firing gun(156/158)
+The dart flew 117 miles away
+Firing gun(155/158)
+The dart flew 151 miles away
+Firing gun(154/158)
+The dart flew 135 miles away
+Firing gun(153/158)
+The dart flew 136 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (jxmxd)
+Firing gun(152/153)
+The dart flew 30 miles away
+Firing gun(151/153)
+The dart flew 158 miles away
+Firing gun(150/153)
+The dart flew 54 miles away
+Firing gun(149/153)
+The dart flew 151 miles away
+Firing gun(148/153)
+The dart flew 122 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Agility (venck)
+Firing gun(187/188)
+The dart flew 155 miles away
+Firing gun(186/188)
+The dart flew 129 miles away
+Firing gun(185/188)
+The dart flew 45 miles away
+Firing gun(184/188)
+The dart flew 69 miles away
+Firing gun(183/188)
+The dart flew 102 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (qvyib)
+Firing gun(145/146)
+The dart flew 26 miles away
+Firing gun(144/146)
+The dart flew 30 miles away
+Firing gun(143/146)
+The dart flew 110 miles away
+Firing gun(142/146)
+The dart flew 101 miles away
+Firing gun(141/146)
+The dart flew 63 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (hlvhj)
+Firing gun(149/150)
+The dart flew 123 miles away
+Firing gun(148/150)
+The dart flew 37 miles away
+Firing gun(147/150)
+The dart flew 142 miles away
+Firing gun(146/150)
+The dart flew 28 miles away
+Firing gun(145/150)
+The dart flew 111 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (jhozp)
+Firing gun(169/170)
+The dart flew 62 miles away
+Firing gun(168/170)
+The dart flew 90 miles away
+Firing gun(167/170)
+The dart flew 91 miles away
+Firing gun(166/170)
+The dart flew 58 miles away
+Firing gun(165/170)
+The dart flew 55 miles away
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (fvray)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (iijam)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (yfpuv)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (hmrbk)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (kmraa)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (bizig)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (idsby)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (szemr)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Echo (zkviw)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Agility (kmuti)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (jxmxd)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Agility (venck)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (qvyib)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (hlvhj)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (jhozp)
+Error: Amount is greater than capacity!
+--------------------------------------------------
+
+
+Test #3
+john@ubuntu-box:~/Code/C++/M04$ ./nerf 15 10 2
+--------------------------------------------------
+Model: Mythic
+Ammo: 173/173
+Max range: 142
+ID: zzrzh
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 199/199
+Max range: 164
+ID: ortcn
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 194/194
+Max range: 192
+ID: nwxkn
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 184/184
+Max range: 137
+ID: myqpu
+--------------------------------------------------
+--------------------------------------------------
+Model: Commander
+Ammo: 177/177
+Max range: 151
+ID: lvyjp
+--------------------------------------------------
+--------------------------------------------------
+Model: Agility
+Ammo: 166/166
+Max range: 143
+ID: ygbdt
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 169/169
+Max range: 166
+ID: gdktw
+--------------------------------------------------
+--------------------------------------------------
+Model: Agility
+Ammo: 151/151
+Max range: 157
+ID: oiwks
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 146/146
+Max range: 117
+ID: bwixh
+--------------------------------------------------
+--------------------------------------------------
+Model: Mythic
+Ammo: 163/163
+Max range: 178
+ID: gzqvz
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 198/198
+Max range: 152
+ID: btxhc
+--------------------------------------------------
+--------------------------------------------------
+Model: Agility
+Ammo: 195/195
+Max range: 175
+ID: uvjwm
+--------------------------------------------------
+--------------------------------------------------
+Model: Echo
+Ammo: 167/167
+Max range: 191
+ID: kgxgu
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 170/170
+Max range: 164
+ID: uqcld
+--------------------------------------------------
+--------------------------------------------------
+Model: Elite
+Ammo: 184/184
+Max range: 109
+ID: fwdfg
+--------------------------------------------------
+The gun with the most ammo is currently: 
+Model: Mythic
+Ammo: 199/199
+Max range: 164
+ID: ortcn
+--------------------------------------------------
+Firing: Mythic (zzrzh)
+Firing gun(172/173)
+The dart flew 114 miles away
+Firing gun(171/173)
+The dart flew 3 miles away
+Firing gun(170/173)
+The dart flew 82 miles away
+Firing gun(169/173)
+The dart flew 60 miles away
+Firing gun(168/173)
+The dart flew 19 miles away
+Firing gun(167/173)
+The dart flew 74 miles away
+Firing gun(166/173)
+The dart flew 82 miles away
+Firing gun(165/173)
+The dart flew 118 miles away
+Firing gun(164/173)
+The dart flew 74 miles away
+Firing gun(163/173)
+The dart flew 69 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (ortcn)
+Firing gun(198/199)
+The dart flew 42 miles away
+Firing gun(197/199)
+The dart flew 91 miles away
+Firing gun(196/199)
+The dart flew 25 miles away
+Firing gun(195/199)
+The dart flew 123 miles away
+Firing gun(194/199)
+The dart flew 52 miles away
+Firing gun(193/199)
+The dart flew 103 miles away
+Firing gun(192/199)
+The dart flew 26 miles away
+Firing gun(191/199)
+The dart flew 100 miles away
+Firing gun(190/199)
+The dart flew 122 miles away
+Firing gun(189/199)
+The dart flew 155 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (nwxkn)
+Firing gun(193/194)
+The dart flew 16 miles away
+Firing gun(192/194)
+The dart flew 125 miles away
+Firing gun(191/194)
+The dart flew 170 miles away
+Firing gun(190/194)
+The dart flew 37 miles away
+Firing gun(189/194)
+The dart flew 34 miles away
+Firing gun(188/194)
+The dart flew 109 miles away
+Firing gun(187/194)
+The dart flew 1 miles away
+Firing gun(186/194)
+The dart flew 164 miles away
+Firing gun(185/194)
+The dart flew 127 miles away
+Firing gun(184/194)
+The dart flew 11 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (myqpu)
+Firing gun(183/184)
+The dart flew 80 miles away
+Firing gun(182/184)
+The dart flew 95 miles away
+Firing gun(181/184)
+The dart flew 79 miles away
+Firing gun(180/184)
+The dart flew 59 miles away
+Firing gun(179/184)
+The dart flew 101 miles away
+Firing gun(178/184)
+The dart flew 60 miles away
+Firing gun(177/184)
+The dart flew 64 miles away
+Firing gun(176/184)
+The dart flew 27 miles away
+Firing gun(175/184)
+The dart flew 24 miles away
+Firing gun(174/184)
+The dart flew 19 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Commander (lvyjp)
+Firing gun(176/177)
+The dart flew 20 miles away
+Firing gun(175/177)
+The dart flew 6 miles away
+Firing gun(174/177)
+The dart flew 84 miles away
+Firing gun(173/177)
+The dart flew 119 miles away
+Firing gun(172/177)
+The dart flew 143 miles away
+Firing gun(171/177)
+The dart flew 64 miles away
+Firing gun(170/177)
+The dart flew 75 miles away
+Firing gun(169/177)
+The dart flew 16 miles away
+Firing gun(168/177)
+The dart flew 126 miles away
+Firing gun(167/177)
+The dart flew 9 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Agility (ygbdt)
+Firing gun(165/166)
+The dart flew 64 miles away
+Firing gun(164/166)
+The dart flew 67 miles away
+Firing gun(163/166)
+The dart flew 44 miles away
+Firing gun(162/166)
+The dart flew 105 miles away
+Firing gun(161/166)
+The dart flew 57 miles away
+Firing gun(160/166)
+The dart flew 21 miles away
+Firing gun(159/166)
+The dart flew 69 miles away
+Firing gun(158/166)
+The dart flew 134 miles away
+Firing gun(157/166)
+The dart flew 100 miles away
+Firing gun(156/166)
+The dart flew 133 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (gdktw)
+Firing gun(168/169)
+The dart flew 139 miles away
+Firing gun(167/169)
+The dart flew 35 miles away
+Firing gun(166/169)
+The dart flew 151 miles away
+Firing gun(165/169)
+The dart flew 37 miles away
+Firing gun(164/169)
+The dart flew 106 miles away
+Firing gun(163/169)
+The dart flew 107 miles away
+Firing gun(162/169)
+The dart flew 113 miles away
+Firing gun(161/169)
+The dart flew 154 miles away
+Firing gun(160/169)
+The dart flew 48 miles away
+Firing gun(159/169)
+The dart flew 89 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Agility (oiwks)
+Firing gun(150/151)
+The dart flew 22 miles away
+Firing gun(149/151)
+The dart flew 32 miles away
+Firing gun(148/151)
+The dart flew 129 miles away
+Firing gun(147/151)
+The dart flew 147 miles away
+Firing gun(146/151)
+The dart flew 71 miles away
+Firing gun(145/151)
+The dart flew 100 miles away
+Firing gun(144/151)
+The dart flew 37 miles away
+Firing gun(143/151)
+The dart flew 53 miles away
+Firing gun(142/151)
+The dart flew 118 miles away
+Firing gun(141/151)
+The dart flew 133 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (bwixh)
+Firing gun(145/146)
+The dart flew 57 miles away
+Firing gun(144/146)
+The dart flew 88 miles away
+Firing gun(143/146)
+The dart flew 15 miles away
+Firing gun(142/146)
+The dart flew 67 miles away
+Firing gun(141/146)
+The dart flew 112 miles away
+Firing gun(140/146)
+The dart flew 28 miles away
+Firing gun(139/146)
+The dart flew 90 miles away
+Firing gun(138/146)
+The dart flew 117 miles away
+Firing gun(137/146)
+The dart flew 1 miles away
+Firing gun(136/146)
+The dart flew 50 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Mythic (gzqvz)
+Firing gun(162/163)
+The dart flew 47 miles away
+Firing gun(161/163)
+The dart flew 57 miles away
+Firing gun(160/163)
+The dart flew 172 miles away
+Firing gun(159/163)
+The dart flew 62 miles away
+Firing gun(158/163)
+The dart flew 124 miles away
+Firing gun(157/163)
+The dart flew 143 miles away
+Firing gun(156/163)
+The dart flew 176 miles away
+Firing gun(155/163)
+The dart flew 10 miles away
+Firing gun(154/163)
+The dart flew 32 miles away
+Firing gun(153/163)
+The dart flew 113 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (btxhc)
+Firing gun(197/198)
+The dart flew 84 miles away
+Firing gun(196/198)
+The dart flew 125 miles away
+Firing gun(195/198)
+The dart flew 96 miles away
+Firing gun(194/198)
+The dart flew 122 miles away
+Firing gun(193/198)
+The dart flew 147 miles away
+Firing gun(192/198)
+The dart flew 101 miles away
+Firing gun(191/198)
+The dart flew 12 miles away
+Firing gun(190/198)
+The dart flew 97 miles away
+Firing gun(189/198)
+The dart flew 34 miles away
+Firing gun(188/198)
+The dart flew 150 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Agility (uvjwm)
+Firing gun(194/195)
+The dart flew 127 miles away
+Firing gun(193/195)
+The dart flew 40 miles away
+Firing gun(192/195)
+The dart flew 46 miles away
+Firing gun(191/195)
+The dart flew 105 miles away
+Firing gun(190/195)
+The dart flew 148 miles away
+Firing gun(189/195)
+The dart flew 121 miles away
+Firing gun(188/195)
+The dart flew 105 miles away
+Firing gun(187/195)
+The dart flew 99 miles away
+Firing gun(186/195)
+The dart flew 7 miles away
+Firing gun(185/195)
+The dart flew 162 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Echo (kgxgu)
+Firing gun(166/167)
+The dart flew 8 miles away
+Firing gun(165/167)
+The dart flew 58 miles away
+Firing gun(164/167)
+The dart flew 48 miles away
+Firing gun(163/167)
+The dart flew 159 miles away
+Firing gun(162/167)
+The dart flew 166 miles away
+Firing gun(161/167)
+The dart flew 149 miles away
+Firing gun(160/167)
+The dart flew 65 miles away
+Firing gun(159/167)
+The dart flew 42 miles away
+Firing gun(158/167)
+The dart flew 111 miles away
+Firing gun(157/167)
+The dart flew 65 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (uqcld)
+Firing gun(169/170)
+The dart flew 115 miles away
+Firing gun(168/170)
+The dart flew 52 miles away
+Firing gun(167/170)
+The dart flew 28 miles away
+Firing gun(166/170)
+The dart flew 74 miles away
+Firing gun(165/170)
+The dart flew 10 miles away
+Firing gun(164/170)
+The dart flew 28 miles away
+Firing gun(163/170)
+The dart flew 158 miles away
+Firing gun(162/170)
+The dart flew 72 miles away
+Firing gun(161/170)
+The dart flew 141 miles away
+Firing gun(160/170)
+The dart flew 150 miles away
+--------------------------------------------------
+--------------------------------------------------
+Firing: Elite (fwdfg)
+Firing gun(183/184)
+The dart flew 101 miles away
+Firing gun(182/184)
+The dart flew 109 miles away
+Firing gun(181/184)
+The dart flew 21 miles away
+Firing gun(180/184)
+The dart flew 44 miles away
+Firing gun(179/184)
+The dart flew 81 miles away
+Firing gun(178/184)
+The dart flew 82 miles away
+Firing gun(177/184)
+The dart flew 75 miles away
+Firing gun(176/184)
+The dart flew 68 miles away
+Firing gun(175/184)
+The dart flew 49 miles away
+Firing gun(174/184)
+The dart flew 75 miles away
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (zzrzh)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (ortcn)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (nwxkn)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (myqpu)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Commander (lvyjp)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Agility (ygbdt)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (gdktw)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Agility (oiwks)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (bwixh)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Mythic (gzqvz)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (btxhc)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Agility (uvjwm)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Echo (kgxgu)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (uqcld)
+Reloading gun
+--------------------------------------------------
+--------------------------------------------------
+Reload: Elite (fwdfg)
+Reloading gun
+--------------------------------------------------
+
